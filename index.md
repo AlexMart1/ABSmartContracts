@@ -24,7 +24,7 @@ Now that sounds like something you can trust!
 4. Agree on Terms and the Smart Contract will be automatically made the App and be integrated to the Blockchain
 5. Once the terms are fulfilled, both of you will receive a notification and **the deal will be done!**
 
-**Is it really that easy?** Yes! You can check out a test-walk through a deal right [here](https://www.figma.com/file/GFEuv4obOqdc8q3cBi2to4/Alice-and-Bob?node-id=0%3A1)
+**Is it really that easy?** Yes! You can check out a test-walk through a deal right [here](https://www.figma.com/file/GFEuv4obOqdc8q3cBi2to4/Alice-and-Bob?node-id=0%3A1) or [here](https://www.figma.com/proto/GFEuv4obOqdc8q3cBi2to4/Alice-and-Bob?node-id=3%3A2&scaling=scale-down) if that didn't work, sorry.
 
 ### What do you get?
 
