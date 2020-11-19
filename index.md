@@ -1,3 +1,5 @@
+![Logo](Imgs/LogoBig.png)
+
 ## P2P Selling has never been this easy
 
 From time to time, there is this need you have to sell that console you don't use anymore, that big TV because you want to upgrade to a better one, or that pricey cellphone you bought last year but don't like anymore. You could be Alice.
