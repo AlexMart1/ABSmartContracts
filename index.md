@@ -45,6 +45,6 @@ Now that sounds like something you can trust!
   
 ### Support and contact
 
-Did that pique your interest? Send an email to [cemar.ortiz@gmail.com](cemar.ortiz@gmail.com) and get some magic done.
+Did that pique your interest? Send an email to [cemar.ortiz@gmail.com](cemar.ortiz@gmail.com) and lets get some magic done.
 
 
