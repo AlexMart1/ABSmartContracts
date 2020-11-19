@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## P2P Selling has never been this easy
 
-You can use the [editor on GitHub](https://github.com/AlexMart1/aliceandbob.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+From time to time, there is this need you have to sell that console you don't use anymore, that big TV because you want to upgrade to a better one, or that pricey cellphone you bought last year but don't like anymore. You could be Alice.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Or you could be Bob, that wants to buy that console you don't want because you're giving such a good price and he's been saving up a little. 
 
-### Markdown
+But what if Alice doesn't really know Bob from that long ago, and Bob finds it hard to trust a stranger too? **We can't let that deal go undone can we?** 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Let's trust the Blockchain!
 
-```markdown
-Syntax highlighted code block
+I know what you are going to say, you've probably heard of Bitcoin and Ethereum and all those fancy names, but nobody has bothered to really explain it you with care. Well, we'll do so pretty fast.
 
-# Header 1
-## Header 2
-### Header 3
+Imagine we had a notebook where we could keep track of everything you and everyone owns. Such a notebook could be pretty cool, you could verify anytime you want who owns what and if anything has changed hands at any given time. Sounds neat so far, but **somebody would have to take care of that, isn't it?**. Well, you are right. But the blockchain solves that problem by distributing copies of the notebook and updating each and everyone of those copies every time a change is made. Making changes onto the dsitributed notebook is hard (**nearly impossible actually**) and that makes it very secure.
 
-- Bulleted
-- List
+Now that sounds like something you can trust!
 
-1. Numbered
-2. List
+### What is 'Alice and Bob'?
 
-**Bold** and _Italic_ and `Code` text
+**Is it really that easy?** Yes! You can check out a test-walk through a deal right [here](https://www.figma.com/file/GFEuv4obOqdc8q3cBi2to4/Alice-and-Bob?node-id=0%3A1)
 
-[Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AlexMart1/aliceandbob.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
